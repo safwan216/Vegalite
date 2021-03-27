@@ -1,0 +1,182 @@
+[
+	{
+		"month": "Jan",
+		"year": "2018",
+		"anomoly": "0.76"	
+	},
+	{
+		"month": "Jan",
+		"year": "2019",
+		"anomoly": "0.94"	
+	},
+	{
+		"month": "Jan",
+		"year": "2020",
+		"anomoly": "1.14"	
+	},
+	{
+		"month": "Feb",
+		"year": "2018",
+		"anomoly": "0.77"	
+	},
+	{
+		"month": "Feb",
+		"year": "2019",
+		"anomoly": "0.86"	
+	},
+	{
+		"month": "Feb",
+		"year": "2020",
+		"anomoly": "1.17"	
+	},
+	{
+		"month": "Mar",
+		"year": "2018",
+		"anomoly": "0.89"	
+	},
+	{
+		"month": "Mar",
+		"year": "2019",
+		"anomoly": "1.1"	
+	},
+	{
+		"month": "Mar",
+		"year": "2020",
+		"anomoly": "1.18"	
+	},
+	{
+		"month": "Apr",
+		"year": "2018",
+		"anomoly": "0.85"	
+	},
+	{
+		"month": "Apr",
+		"year": "2019",
+		"anomoly": "0.97"	
+	},
+	{
+		"month": "Apr",
+		"year": "2020",
+		"anomoly": "1.05"	
+	},
+	{
+		"month": "May",
+		"year": "2018",
+		"anomoly": "0.82"	
+	},
+	{
+		"month": "May",
+		"year": "2019",
+		"anomoly": "0.87"	
+	},
+	{
+		"month": "May",
+		"year": "2020",
+		"anomoly": "0.95"	
+	},
+	{
+		"month": "Jun",
+		"year": "2018",
+		"anomoly": "0.78"	
+	},
+	{
+		"month": "Jun",
+		"year": "2019",
+		"anomoly": "0.95"	
+	},
+	{
+		"month": "Jun",
+		"year": "2020",
+		"anomoly": "0.92"	
+	},
+	{
+		"month": "Jul",
+		"year": "2018",
+		"anomoly": "0.83"	
+	},
+	{
+		"month": "Jul",
+		"year": "2019",
+		"anomoly": "0.93"	
+	},
+	{
+		"month": "Jul",
+		"year": "2020",
+		"anomoly": "0.92"	
+	},
+	{
+		"month": "Aug",
+		"year": "2018",
+		"anomoly": "0.8"	
+	},
+	{
+		"month": "Aug",
+		"year": "2019",
+		"anomoly": "0.92"	
+	},
+	{
+		"month": "Aug",
+		"year": "2020",
+		"anomoly": "0.94"	
+	},
+	{
+		"month": "Sep",
+		"year": "2018",
+		"anomoly": "0.83"	
+	},
+	{
+		"month": "Sep",
+		"year": "2019",
+		"anomoly": "0.94"	
+	},
+	{
+		"month": "Sep",
+		"year": "2020",
+		"anomoly": "0.94"	
+	},
+	{
+		"month": "Oct",
+		"year": "2018",
+		"anomoly": "0.93"	
+	},
+	{
+		"month": "Oct",
+		"year": "2019",
+		"anomoly": "0.95"	
+	},
+	{
+		"month": "Oct",
+		"year": "2020",
+		"anomoly": "0.83"	
+	},
+	{
+		"month": "Nov",
+		"year": "2018",
+		"anomoly": "0.79"	
+	},
+	{
+		"month": "Nov",
+		"year": "2019",
+		"anomoly": "0.92"	
+	},
+	{
+		"month": "Nov",
+		"year": "2020",
+		"anomoly": "0.95"	
+	},
+	{
+		"month": "Dec",
+		"year": "2018",
+		"anomoly": "0.89"	
+	},
+	{
+		"month": "Dec",
+		"year": "2019",
+		"anomoly": "1.05"	
+	},
+	{
+		"month": "Dec",
+		"year": "2020",
+		"anomoly": "0.78"	
+	},
+]
